@@ -1,7 +1,7 @@
 # PracticeRepo
 Lets practice Rest API get, with this endpoint https://dog.ceo/api/breeds/list/all Print all the dogs breeds.
 
-##Tips
+## Tips
 - Import request libbrary
 - Save the endpoint url as a variable
 - run an GET on the URL and save the response as a variable
